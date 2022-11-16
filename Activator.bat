@@ -72,7 +72,7 @@ popd
 
 cls
 color 07
-title  Online KMS Activation
+title  Online Activation Scirpt | By Grizzly#2578
 
 set WMI_VBS=0
 set _Debug=0
