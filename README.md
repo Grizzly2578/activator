@@ -1,2 +1,2 @@
 # activator
-A script used for activating Micosoft Office and Windows!
+A script used for activating Microsoft Office and Windows!
